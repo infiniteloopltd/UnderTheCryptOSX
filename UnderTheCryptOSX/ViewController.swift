@@ -7,13 +7,25 @@
 //
 
 import Cocoa
+import WebKit
 
-class ViewController: NSViewController {
+class ViewController: NSViewController, WKNavigationDelegate {
 
+    @IBOutlet weak var webkitview: WKWebView!
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-
-        // Do any additional setup after loading the view.
+        let url = Bundle.main.url(forResource: "index", withExtension: "html")!
+        webkitview.loadFileURL(url, allowingReadAccessTo: url)
+        let request = URLRequest(url: url)
+        webkitview.load(request)
+        
+    }
+    
+    override func viewDidAppear() {
+        super.viewDidAppear()
+        self.view.window?.title = "Under the Crypt"
     }
 
     override var representedObject: Any? {

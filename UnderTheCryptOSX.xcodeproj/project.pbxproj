@@ -11,6 +11,27 @@
 		1513221C216805E1000FD238 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1513221B216805E1000FD238 /* ViewController.swift */; };
 		1513221E216805E2000FD238 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1513221D216805E2000FD238 /* Assets.xcassets */; };
 		15132221216805E2000FD238 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1513221F216805E2000FD238 /* Main.storyboard */; };
+		15975DEE2168111D00F6B291 /* hello.html in Resources */ = {isa = PBXBuildFile; fileRef = 15975DED2168111D00F6B291 /* hello.html */; };
+		15975E04216811F200F6B291 /* ui.js in Resources */ = {isa = PBXBuildFile; fileRef = 15975DF0216811F000F6B291 /* ui.js */; };
+		15975E05216811F200F6B291 /* journal.html in Resources */ = {isa = PBXBuildFile; fileRef = 15975DF1216811F000F6B291 /* journal.html */; };
+		15975E06216811F200F6B291 /* tiles.png in Resources */ = {isa = PBXBuildFile; fileRef = 15975DF2216811F000F6B291 /* tiles.png */; };
+		15975E07216811F200F6B291 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 15975DF3216811F000F6B291 /* index.html */; };
+		15975E08216811F200F6B291 /* img in Resources */ = {isa = PBXBuildFile; fileRef = 15975DF4216811F000F6B291 /* img */; };
+		15975E09216811F200F6B291 /* spawner.js in Resources */ = {isa = PBXBuildFile; fileRef = 15975DF5216811F000F6B291 /* spawner.js */; };
+		15975E0A216811F200F6B291 /* level.js in Resources */ = {isa = PBXBuildFile; fileRef = 15975DF6216811F000F6B291 /* level.js */; };
+		15975E0B216811F200F6B291 /* js in Resources */ = {isa = PBXBuildFile; fileRef = 15975DF7216811F000F6B291 /* js */; };
+		15975E0C216811F200F6B291 /* journal.c.html in Resources */ = {isa = PBXBuildFile; fileRef = 15975DF8216811F000F6B291 /* journal.c.html */; };
+		15975E0D216811F200F6B291 /* res in Resources */ = {isa = PBXBuildFile; fileRef = 15975DF9216811F100F6B291 /* res */; };
+		15975E0E216811F200F6B291 /* Icons.png in Resources */ = {isa = PBXBuildFile; fileRef = 15975DFA216811F100F6B291 /* Icons.png */; };
+		15975E0F216811F200F6B291 /* index.c.html in Resources */ = {isa = PBXBuildFile; fileRef = 15975DFB216811F100F6B291 /* index.c.html */; };
+		15975E10216811F200F6B291 /* game.js in Resources */ = {isa = PBXBuildFile; fileRef = 15975DFC216811F100F6B291 /* game.js */; };
+		15975E11216811F200F6B291 /* journal.js in Resources */ = {isa = PBXBuildFile; fileRef = 15975DFD216811F100F6B291 /* journal.js */; };
+		15975E12216811F200F6B291 /* css in Resources */ = {isa = PBXBuildFile; fileRef = 15975DFE216811F100F6B291 /* css */; };
+		15975E13216811F200F6B291 /* spec in Resources */ = {isa = PBXBuildFile; fileRef = 15975DFF216811F200F6B291 /* spec */; };
+		15975E14216811F200F6B291 /* spec.html in Resources */ = {isa = PBXBuildFile; fileRef = 15975E00216811F200F6B291 /* spec.html */; };
+		15975E15216811F200F6B291 /* tower.js in Resources */ = {isa = PBXBuildFile; fileRef = 15975E01216811F200F6B291 /* tower.js */; };
+		15975E16216811F200F6B291 /* extern.js in Resources */ = {isa = PBXBuildFile; fileRef = 15975E02216811F200F6B291 /* extern.js */; };
+		15975E17216811F200F6B291 /* spirit.js in Resources */ = {isa = PBXBuildFile; fileRef = 15975E03216811F200F6B291 /* spirit.js */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +42,27 @@
 		15132220216805E2000FD238 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		15132222216805E2000FD238 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		15132223216805E2000FD238 /* UnderTheCryptOSX.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = UnderTheCryptOSX.entitlements; sourceTree = "<group>"; };
+		15975DED2168111D00F6B291 /* hello.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = hello.html; sourceTree = "<group>"; };
+		15975DF0216811F000F6B291 /* ui.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = ui.js; sourceTree = "<group>"; };
+		15975DF1216811F000F6B291 /* journal.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = journal.html; sourceTree = "<group>"; };
+		15975DF2216811F000F6B291 /* tiles.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tiles.png; sourceTree = "<group>"; };
+		15975DF3216811F000F6B291 /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		15975DF4216811F000F6B291 /* img */ = {isa = PBXFileReference; lastKnownFileType = folder; path = img; sourceTree = "<group>"; };
+		15975DF5216811F000F6B291 /* spawner.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = spawner.js; sourceTree = "<group>"; };
+		15975DF6216811F000F6B291 /* level.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = level.js; sourceTree = "<group>"; };
+		15975DF7216811F000F6B291 /* js */ = {isa = PBXFileReference; lastKnownFileType = folder; path = js; sourceTree = "<group>"; };
+		15975DF8216811F000F6B291 /* journal.c.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = journal.c.html; sourceTree = "<group>"; };
+		15975DF9216811F100F6B291 /* res */ = {isa = PBXFileReference; lastKnownFileType = folder; path = res; sourceTree = "<group>"; };
+		15975DFA216811F100F6B291 /* Icons.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icons.png; sourceTree = "<group>"; };
+		15975DFB216811F100F6B291 /* index.c.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.c.html; sourceTree = "<group>"; };
+		15975DFC216811F100F6B291 /* game.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = game.js; sourceTree = "<group>"; };
+		15975DFD216811F100F6B291 /* journal.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = journal.js; sourceTree = "<group>"; };
+		15975DFE216811F100F6B291 /* css */ = {isa = PBXFileReference; lastKnownFileType = folder; path = css; sourceTree = "<group>"; };
+		15975DFF216811F200F6B291 /* spec */ = {isa = PBXFileReference; lastKnownFileType = folder; path = spec; sourceTree = "<group>"; };
+		15975E00216811F200F6B291 /* spec.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = spec.html; sourceTree = "<group>"; };
+		15975E01216811F200F6B291 /* tower.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = tower.js; sourceTree = "<group>"; };
+		15975E02216811F200F6B291 /* extern.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = extern.js; sourceTree = "<group>"; };
+		15975E03216811F200F6B291 /* spirit.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = spirit.js; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +95,7 @@
 		15132218216805E1000FD238 /* UnderTheCryptOSX */ = {
 			isa = PBXGroup;
 			children = (
+				15975DEF2168115100F6B291 /* website */,
 				15132219216805E1000FD238 /* AppDelegate.swift */,
 				1513221B216805E1000FD238 /* ViewController.swift */,
 				1513221D216805E2000FD238 /* Assets.xcassets */,
@@ -61,6 +104,34 @@
 				15132223216805E2000FD238 /* UnderTheCryptOSX.entitlements */,
 			);
 			path = UnderTheCryptOSX;
+			sourceTree = "<group>";
+		};
+		15975DEF2168115100F6B291 /* website */ = {
+			isa = PBXGroup;
+			children = (
+				15975DFE216811F100F6B291 /* css */,
+				15975E02216811F200F6B291 /* extern.js */,
+				15975DFC216811F100F6B291 /* game.js */,
+				15975DFA216811F100F6B291 /* Icons.png */,
+				15975DF4216811F000F6B291 /* img */,
+				15975DFB216811F100F6B291 /* index.c.html */,
+				15975DF3216811F000F6B291 /* index.html */,
+				15975DF8216811F000F6B291 /* journal.c.html */,
+				15975DF1216811F000F6B291 /* journal.html */,
+				15975DFD216811F100F6B291 /* journal.js */,
+				15975DF7216811F000F6B291 /* js */,
+				15975DF6216811F000F6B291 /* level.js */,
+				15975DF9216811F100F6B291 /* res */,
+				15975DF5216811F000F6B291 /* spawner.js */,
+				15975DFF216811F200F6B291 /* spec */,
+				15975E00216811F200F6B291 /* spec.html */,
+				15975E03216811F200F6B291 /* spirit.js */,
+				15975DF2216811F000F6B291 /* tiles.png */,
+				15975E01216811F200F6B291 /* tower.js */,
+				15975DF0216811F000F6B291 /* ui.js */,
+				15975DED2168111D00F6B291 /* hello.html */,
+			);
+			path = website;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -95,6 +166,11 @@
 				TargetAttributes = {
 					15132215216805E0000FD238 = {
 						CreatedOnToolsVersion = 10.0;
+						SystemCapabilities = {
+							com.apple.Sandbox = {
+								enabled = 1;
+							};
+						};
 					};
 				};
 			};
@@ -121,8 +197,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				15975E12216811F200F6B291 /* css in Resources */,
+				15975E17216811F200F6B291 /* spirit.js in Resources */,
+				15975E13216811F200F6B291 /* spec in Resources */,
+				15975E08216811F200F6B291 /* img in Resources */,
+				15975E0D216811F200F6B291 /* res in Resources */,
+				15975E0E216811F200F6B291 /* Icons.png in Resources */,
+				15975E07216811F200F6B291 /* index.html in Resources */,
 				1513221E216805E2000FD238 /* Assets.xcassets in Resources */,
+				15975E0A216811F200F6B291 /* level.js in Resources */,
+				15975E16216811F200F6B291 /* extern.js in Resources */,
 				15132221216805E2000FD238 /* Main.storyboard in Resources */,
+				15975E0C216811F200F6B291 /* journal.c.html in Resources */,
+				15975E04216811F200F6B291 /* ui.js in Resources */,
+				15975E14216811F200F6B291 /* spec.html in Resources */,
+				15975E0B216811F200F6B291 /* js in Resources */,
+				15975DEE2168111D00F6B291 /* hello.html in Resources */,
+				15975E0F216811F200F6B291 /* index.c.html in Resources */,
+				15975E15216811F200F6B291 /* tower.js in Resources */,
+				15975E10216811F200F6B291 /* game.js in Resources */,
+				15975E05216811F200F6B291 /* journal.html in Resources */,
+				15975E09216811F200F6B291 /* spawner.js in Resources */,
+				15975E06216811F200F6B291 /* tiles.png in Resources */,
+				15975E11216811F200F6B291 /* journal.js in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
