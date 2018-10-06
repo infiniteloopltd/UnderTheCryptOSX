@@ -35,7 +35,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		15132216216805E0000FD238 /* UnderTheCryptOSX.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UnderTheCryptOSX.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		15132216216805E0000FD238 /* UnderTheCrypt.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UnderTheCrypt.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		15132219216805E1000FD238 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1513221B216805E1000FD238 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		1513221D216805E2000FD238 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -87,7 +87,7 @@
 		15132217216805E0000FD238 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				15132216216805E0000FD238 /* UnderTheCryptOSX.app */,
+				15132216216805E0000FD238 /* UnderTheCrypt.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -137,9 +137,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		15132215216805E0000FD238 /* UnderTheCryptOSX */ = {
+		15132215216805E0000FD238 /* UnderTheCrypt */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 15132226216805E2000FD238 /* Build configuration list for PBXNativeTarget "UnderTheCryptOSX" */;
+			buildConfigurationList = 15132226216805E2000FD238 /* Build configuration list for PBXNativeTarget "UnderTheCrypt" */;
 			buildPhases = (
 				15132212216805E0000FD238 /* Sources */,
 				15132213216805E0000FD238 /* Frameworks */,
@@ -149,9 +149,9 @@
 			);
 			dependencies = (
 			);
-			name = UnderTheCryptOSX;
+			name = UnderTheCrypt;
 			productName = UnderTheCryptOSX;
-			productReference = 15132216216805E0000FD238 /* UnderTheCryptOSX.app */;
+			productReference = 15132216216805E0000FD238 /* UnderTheCrypt.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -174,7 +174,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 15132211216805E0000FD238 /* Build configuration list for PBXProject "UnderTheCryptOSX" */;
+			buildConfigurationList = 15132211216805E0000FD238 /* Build configuration list for PBXProject "UnderTheCrypt" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -187,7 +187,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				15132215216805E0000FD238 /* UnderTheCryptOSX */,
+				15132215216805E0000FD238 /* UnderTheCrypt */,
 			);
 		};
 /* End PBXProject section */
@@ -405,7 +405,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		15132211216805E0000FD238 /* Build configuration list for PBXProject "UnderTheCryptOSX" */ = {
+		15132211216805E0000FD238 /* Build configuration list for PBXProject "UnderTheCrypt" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				15132224216805E2000FD238 /* Debug */,
@@ -414,7 +414,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		15132226216805E2000FD238 /* Build configuration list for PBXNativeTarget "UnderTheCryptOSX" */ = {
+		15132226216805E2000FD238 /* Build configuration list for PBXNativeTarget "UnderTheCrypt" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				15132227216805E2000FD238 /* Debug */,
